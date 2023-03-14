@@ -1,0 +1,13 @@
+{
+    "extends": ["react-app", "plugin:prettier/recommended", "prettier/react"],
+    "parser": "babel-eslint",
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "rules": {
+        "no-throw-literal": "off",
+        "no-console": "warn",
+        "react/jsx-filename-extension": "off"
+    }
+}

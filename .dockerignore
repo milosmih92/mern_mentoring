@@ -1,0 +1,9 @@
+**/*
+!src
+!public
+!config
+!\.babelrc
+!package.json
+!package-lock.json
+!.npmrc-docker
+!webpack.config.js

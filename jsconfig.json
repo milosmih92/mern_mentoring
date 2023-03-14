@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "_client/*": ["src/client/*"],
+            "_server/*": ["src/server/*"]
+        }
+    }
+}
